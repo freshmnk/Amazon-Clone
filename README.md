@@ -1,8 +1,17 @@
-Here's the code at the end of JavaScript Course Lesson 13 (if you need it).
-## Steps
-1. Click Code > Download ZIP <br>
-   <img width="485" alt="Screenshot 2023-07-27 at 11 25 55 AM" src="https://github.com/SuperSimpleDev/javascript-lesson-14-starting-code/assets/70604577/610f8222-1508-46a2-84ec-cc7f7a56fd0d">
-2. Open the downloaded file (this will unzip it)
-3. Optional: move the folder to another place on your computer, rename the folder
 
-That's it! Now you're ready to follow along.
+Amazon CLone 
+
+Description
+
+This is a functional e-commerce website inspired by Amazon, featuring a user-friendly interface for browsing products, adding items to a shopping cart, and managing purchases. It leverages a robust backend system to store product data and facilitate cart functionality.
+
+Features
+
+Product Catalog: Browse a variety of products, with details and images for informed decision-making.
+Search Functionality: Easily find specific products using a search bar.
+Shopping Cart: Add items to your cart for convenient checkout.
+Backend System: Manages product data and cart operations.
+Technologies Used
+
+Front-end (list specific frameworks/libraries used, e.g., React, HTML, CSS, JavaScript)
+Back-end (Node.js)
