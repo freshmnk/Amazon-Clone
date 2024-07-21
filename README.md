@@ -13,5 +13,4 @@ Shopping Cart: Add items to your cart for convenient checkout.
 Backend System: Manages product data and cart operations.
 Technologies Used
 
-Front-end (list specific frameworks/libraries used, e.g., React, HTML, CSS, JavaScript)
-Back-end (Node.js)
+Front-end ( frameworks used, HTML, CSS, JavaScript)
